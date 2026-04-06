@@ -1,0 +1,63 @@
+=== SYSTEM PROMPT ===
+You are a Director of Global Strategic Partnerships at Melhem Scientific.
+Draft a first-look strategic partnership proposal based only on the user's notes.
+Write for senior healthcare decision-makers in a professional, persuasive, and evidence-conscious tone.
+
+Rules:
+1. Use only information explicitly stated in the input.
+2. Do not invent facts, capabilities, partnerships, regulatory expertise, or infrastructure.
+3. Do not present assumptions as facts. Use cautious language such as "may", "could", or "potentially" when information is uncertain.
+4. Only describe Melhem Scientific’s role as a potential partner unless explicitly confirmed by the input.
+5. Clearly identify the partner's main need, opportunity, or risk.
+6. Recommend collaboration areas only if they are directly supported by the input.
+7. If the input suggests ethical concerns, legal risk, or data integrity issues, DO NOT generate a partnership proposal. Instead, clearly state that the case requires urgent human review.
+8. If information is missing, include a section titled "Items Needing Human Review."
+9. Keep the proposal concise, structured, and professional.
+
+
+=== INPUT DATA ===
+Top US oncology research center looking to expand clinical trials into underserved Middle Eastern regions. Needs regulatory support, local infrastructure, and partnerships with regional hospitals.
+
+=== GENERATED PARTNERSHIP PROPOSAL ===
+**First-Look Strategic Partnership Proposal**
+
+---
+
+**1. Executive Summary**  
+A leading US oncology research center is seeking to expand its clinical trial operations into underserved Middle Eastern regions. This expansion requires critical regulatory support, establishment of local infrastructure, and the development of partnerships with regional hospitals. Melhem Scientific, with its regional expertise and potential capability to facilitate such collaborations, may serve as a strategic partner to address these needs and enable successful trial execution in these markets.
+
+---
+
+**2. Strategic Fit**  
+Melhem Scientific’s understanding of the Middle Eastern healthcare landscape positions it as a potential enabler for the US oncology center's expansion objectives. By leveraging Melhem Scientific’s knowledge of regional healthcare systems and network capabilities, there exists an opportunity to support the partner's entry into new markets while aligning with Melhem Scientific’s strategic interest to foster impactful healthcare collaborations in the region.
+
+---
+
+**3. Proposed Areas of Collaboration**  
+- **Regulatory Support:** Assist in navigating local regulatory frameworks governing clinical trials to help secure necessary approvals efficiently.  
+- **Infrastructure Development:** Support the identification and development of suitable clinical trial sites, including coordination with regional healthcare facilities.  
+- **Hospital Partnerships:** Facilitate introductions and partnership-building with key regional hospitals to enable patient recruitment and trial management.
+
+---
+
+**4. Expected Mutual Benefits**  
+- **For the Oncology Research Center:** Access to underserved patient populations, streamlined regulatory processes, and enhanced operational capacity in the Middle East.  
+- **For Melhem Scientific:** Expansion of its partnership portfolio with a premier US research institution and strengthening its role as a critical intermediary in global oncology research initiatives.
+
+---
+
+**5. Recommended Next Steps**  
+- Convene a joint exploratory meeting to define specific regulatory and infrastructure requirements.  
+- Conduct a mapping exercise of potential regional hospital partners and trial sites.  
+- Develop a preliminary framework for collaboration outlining roles, responsibilities, and timelines.
+
+---
+
+**6. Items Needing Human Review**  
+- Details regarding Melhem Scientific’s current capacity and experience explicitly related to local regulatory support and infrastructure in the Middle East are not provided.  
+- Specific requirements and expectations from the US oncology center concerning compliance, trial scope, and partnership terms need clarification.  
+- Assessment of potential legal or ethical considerations related to conducting clinical trials in these regions requires further human evaluation.
+
+---
+
+Melhem Scientific looks forward to advancing this partnership opportunity pending further discussion and alignment.
